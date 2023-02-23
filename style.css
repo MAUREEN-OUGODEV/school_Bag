@@ -108,5 +108,6 @@ width: 72%;
     margin-left: 600px;
     text-align: top;
     background-color: transparent;
-    border: solid 5px black;
+    border: solid 2px rgb(247, 245, 245);
+    color: aliceblue;
 }
