@@ -11,6 +11,7 @@ h1{
 .landscape{
 background-image: url(./images/FoBYld.jpg);
 background-repeat: no-repeat;
+background-position: center;
 background-size: cover;
 height: 670px;
  
@@ -64,14 +65,16 @@ a:hover{
     color: black;
 }
 .button{
-    background-color: rgb(149, 197, 18);
-    padding:10px 40px;
-
+    background-color: rgb(231, 233, 225);
+    padding:20px 50px;
+   border: none;
+    box-shadow: 2px 2px 2px blue;
     border-radius: 50px;
     justify-content: center;
     margin-top: 2%;
     margin-left: 5%;
     font-family: 'Ubuntu', sans-serif;
+    color: blueviolet;
 }
 .btn{
     padding: 20px 10px 10px 5px;
